@@ -34,8 +34,5 @@ Tớ tên là Phạm Mạnh Tuân ._.
 **Hướng dẫn Cài Bot**
 
 - ⚡ **npm i**
-- ⚡ **npm i simple-youtube-api**
-- ⚡ **npm i youtube-search-api**
-- ⚡ **npm i ytdl-core**
-- ⚡ **npm i lyrics-finder**
-- ⚡ **npm i gifencoder**
+- ⚡ **npm i sqlite3**
+- ⚡ **npm i canvas@2.9.0**
